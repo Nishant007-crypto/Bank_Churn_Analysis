@@ -18,7 +18,7 @@ To identify key customer attributes influencing churn, evaluate churn rates acro
 
 ---
 
-## Key Analyses Performed
+## Key Analysis Performed
 
 ### 1. **Calculate Overall Churn Rate**
 - Counts total customers and churned ones.
